@@ -11,3 +11,7 @@ To add a card, copy an article in index.html and update its accession number, ca
 ## Editorial filing
 
 C supplies full stories; the site owner maintains organization. Eleven subject drawers use memorable labels with explicit subject descriptions. Cards may belong to several subjects (space-separated data-category values). Keep evidence status separate from topic: working device, prototype, proposal, unverified claim. Use abandoned as a lifecycle tag, not an explanation of why a project ended.
+
+## Visual mood
+
+Strict grayscale: old Soviet research lab, grey filing cabinets, typewriter text, worn paper, graphite margin notes, faded black stamps. No colored accents.
