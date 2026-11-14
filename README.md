@@ -2,7 +2,7 @@
 
 Soviet invention archive using AI Net City's base layout. Static HTML, CSS, and JavaScript; no build step.
 
-The opening three entries are catalogue records, not finished articles. Full editorial content is being prepared separately.
+The original three entries remain catalogue records. Forty supplied stories are published as expandable cards on the same page, with stable #story-01 through #story-40 links, Russian name aliases, source links, subject filters and evidence labels. Editorial corrections remove disputed priority claims and time-dependent hooks.
 
 Search supports English, Russian, names, subjects, years, and multiple terms. Subject tabs combine with search; card tags reset the subject and search by tag.
 

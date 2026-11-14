@@ -13,7 +13,7 @@
       card.hidden = !visible;
       if (visible) count++;
     }
-    document.querySelector('#results').textContent = `${count} of ${cards.length} catalogue cards · Full stories in preparation`;
+    document.querySelector('#results').textContent = `${count} of ${cards.length} cards · 40 stories + 3 opening records`;
     document.querySelector('#empty').hidden = count !== 0;
     describe();
     for (const tab of tabs) tab.setAttribute('aria-pressed', String(tab.dataset.filter === selected));
@@ -36,5 +36,17 @@
   for (const tab of tabs) tab.addEventListener('click', () => { selected = tab.dataset.filter; apply(); });
   for (const tag of document.querySelectorAll('[data-tag]')) tag.addEventListener('click', () => { selected = 'all'; search.value = tag.dataset.tag; apply(); search.focus(); });
   document.querySelector('#clear').addEventListener('click', () => { selected = 'all'; search.value = ''; apply(); search.focus(); });
+  function openLinkedStory() {
+    const id = location.hash.slice(1);
+    if (!/^story-\d{2}$/.test(id)) return;
+    const card = document.getElementById(id);
+    if (!card) return;
+    selected = 'all'; search.value = ''; apply();
+    const story = card.querySelector('details');
+    if (story) story.open = true;
+    card.scrollIntoView({block:'start'});
+  }
+  window.addEventListener('hashchange', openLinkedStory);
   apply();
+  openLinkedStory();
 })();
