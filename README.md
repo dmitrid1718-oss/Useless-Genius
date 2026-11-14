@@ -15,3 +15,7 @@ C supplies full stories; the site owner maintains organization. Eleven subject d
 ## Visual mood
 
 Strict grayscale: old Soviet research lab, grey filing cabinets, typewriter text, worn paper, graphite margin notes, faded black stamps. No colored accents.
+
+## Buran image
+
+assets/buran-archive-rendering.png is an AI-generated archival-style artistic reconstruction, not an authentic historical photograph. Keep the visible disclosure with the image.
