@@ -14,7 +14,7 @@
       card.hidden = !visible;
       if (visible) count++;
     }
-    document.querySelector('#results').textContent = `${count} of ${cards.length} cards · ${storyCount} stories + ${cards.length - storyCount} opening records`;
+    document.querySelector('#results').textContent = `${count} of ${cards.length} cards · ${storyCount} numbered stories + ${cards.length - storyCount} opening stories`;
     document.querySelector('#empty').hidden = count !== 0;
     describe();
     for (const tab of tabs) tab.setAttribute('aria-pressed', String(tab.dataset.filter === selected));
@@ -39,7 +39,7 @@
   document.querySelector('#clear').addEventListener('click', () => { selected = 'all'; search.value = ''; apply(); search.focus(); });
   function openLinkedStory() {
     const id = location.hash.slice(1);
-    if (!/^story-\d{2,3}$/.test(id)) return;
+    if (!/^(?:story-\d{2,3}|opening-(?:setun|water-computer|the-thing))$/.test(id)) return;
     const card = document.getElementById(id);
     if (!card) return;
     selected = 'all'; search.value = ''; apply();
