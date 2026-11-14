@@ -2,7 +2,7 @@
 
 Soviet invention archive using AI Net City's base layout. Static HTML, CSS, and JavaScript; no build step.
 
-The original three entries remain catalogue records. Forty supplied stories are published as expandable cards on the same page, with stable #story-01 through #story-40 links, Russian name aliases, source links, subject filters and evidence labels. Editorial corrections remove disputed priority claims and time-dependent hooks.
+The original three entries remain catalogue records. One hundred and forty supplied stories are published as expandable cards on the same page, with stable #story-01 through #story-140 links, Russian name aliases, source links, subject filters and evidence labels. Editorial corrections remove disputed priority claims and time-dependent hooks.
 
 Search supports English, Russian, names, subjects, years, and multiple terms. Subject tabs combine with search; card tags reset the subject and search by tag.
 
@@ -19,3 +19,5 @@ Strict grayscale: old Soviet research lab, grey filing cabinets, typewriter text
 ## Buran image
 
 assets/buran-archive-rendering.png is an AI-generated archival-style artistic reconstruction, not an authentic historical photograph. Keep the visible disclosure with the image.
+
+Stories 41–140 preserve the supplied separate biographical sections. Search indexes the full narrative and biography once on page load; deep links accept two- and three-digit story numbers.

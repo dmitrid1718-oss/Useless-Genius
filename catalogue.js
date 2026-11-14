@@ -4,16 +4,17 @@
   const tabs = [...document.querySelectorAll('[data-filter]')];
   let selected = 'all';
   const normalize = value => value.toLocaleLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/ё/g, 'е');
+  const storyCount = cards.filter(card => card.classList.contains('story-card')).length;
+  const indexedCards = cards.map(card => ({card, text: normalize((card.dataset.search || '') + ' ' + card.textContent), categories: card.dataset.category.split(' ')}));
   function apply() {
     const terms = normalize(search.value).trim().split(/\s+/).filter(Boolean);
     let count = 0;
-    for (const card of cards) {
-      const text = normalize(card.dataset.search + ' ' + card.textContent);
-      const visible = (selected === 'all' || card.dataset.category.split(' ').includes(selected)) && terms.every(term => text.includes(term));
+    for (const {card, text, categories} of indexedCards) {
+      const visible = (selected === 'all' || categories.includes(selected)) && terms.every(term => text.includes(term));
       card.hidden = !visible;
       if (visible) count++;
     }
-    document.querySelector('#results').textContent = `${count} of ${cards.length} cards · 40 stories + 3 opening records`;
+    document.querySelector('#results').textContent = `${count} of ${cards.length} cards · ${storyCount} stories + ${cards.length - storyCount} opening records`;
     document.querySelector('#empty').hidden = count !== 0;
     describe();
     for (const tab of tabs) tab.setAttribute('aria-pressed', String(tab.dataset.filter === selected));
@@ -38,7 +39,7 @@
   document.querySelector('#clear').addEventListener('click', () => { selected = 'all'; search.value = ''; apply(); search.focus(); });
   function openLinkedStory() {
     const id = location.hash.slice(1);
-    if (!/^story-\d{2}$/.test(id)) return;
+    if (!/^story-\d{2,3}$/.test(id)) return;
     const card = document.getElementById(id);
     if (!card) return;
     selected = 'all'; search.value = ''; apply();

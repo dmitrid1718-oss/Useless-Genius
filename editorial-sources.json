@@ -1,0 +1,1551 @@
+{
+  "41": {
+    "source_url": "https://ethw.org/Vladimir_A._Kotelnikov",
+    "source_label": "IEEE Engineering and Technology History Wiki",
+    "russian": "ВЛАДИМИР КОТЕЛЬНИКОВ",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "title",
+        "old": "The Theorem the West Named After Someone Else",
+        "new": "The 1933 Theorem Behind Digital Signals"
+      },
+      {
+        "field": "story",
+        "old": "In 1933, Vladimir Kotelnikov showed that a continuous signal, such as a voice, can be captured perfectly by taking samples at twice its highest frequency, and then rebuilt with nothing lost.",
+        "new": "In 1933, Vladimir Kotelnikov showed how an ideal band-limited signal can be reconstructed from samples taken sufficiently rapidly—at a rate above twice its highest frequency, with the appropriate assumptions. Real recording systems also face noise, finite precision and filtering limits."
+      },
+      {
+        "field": "story",
+        "old": "In the West it's usually credited to Claude Shannon, who published it in 1949, 16 years later. In Russia it has always been the Kotelnikov theorem.",
+        "new": "It is often called the Nyquist–Shannon sampling theorem in English and Kotelnikov’s theorem in Russian. Its history includes independent contributions by Whittaker, Nyquist, Kotelnikov, Shannon and others; Shannon’s influential paper appeared in 1949."
+      },
+      {
+        "field": "why",
+        "old": "He laid the foundation of the digital world and kept quiet while others got the credit.",
+        "new": "His rigorous 1933 work belongs in the shared history behind modern digital communication."
+      }
+    ]
+  },
+  "42": {
+    "source_url": "https://www.mim.be/index.php/en/collection-piece/theremin-0",
+    "source_label": "Musical Instruments Museum, Brussels",
+    "russian": "ЛЕВ ТЕРМЕН · ТЕРМЕНВОКС",
+    "evidence": "Working device",
+    "corrections": [
+      {
+        "field": "hook",
+        "old": "The theremin, the first electronic instrument, was invented by accident by a physicist measuring gas.",
+        "new": "One of the earliest electronic instruments grew from a physicist’s experiments with radio oscillators."
+      },
+      {
+        "field": "story",
+        "old": "The eerie sound later became the voice of science fiction films and was used by the Beach Boys and many others.",
+        "new": "Its eerie sound became associated with science-fiction films and later rock music. The Beach Boys’ “Good Vibrations” used Paul Tanner’s mechanically controlled Electro-Theremin, a different instrument with a similar sound."
+      },
+      {
+        "field": "story",
+        "old": "He received a Stalin Prize while still a prisoner.",
+        "new": "His listening-device work during confinement later earned a Stalin Prize."
+      }
+    ]
+  },
+  "43": {
+    "source_url": "https://www.nasa.gov/wp-content/uploads/2024/06/a-wartime-necessity-tagged.pdf?emrc=685a67c6d274a",
+    "source_label": "NASA history: A Wartime Necessity",
+    "russian": "АНДРЕЙ ТУПОЛЕВ · ТУ-2",
+    "evidence": "Working device",
+    "corrections": []
+  },
+  "44": {
+    "source_url": "https://adsabs.harvard.edu/pdf/1959PASP...71...46.",
+    "source_label": "Publications of the Astronomical Society of the Pacific: report on Kozyrev’s observation",
+    "russian": "НИКОЛАЙ КОЗЫРЕВ · ПРИЧИННАЯ МЕХАНИКА",
+    "evidence": "Unverified claim",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "Most physicists rejected the theory, and it remains outside mainstream science.",
+        "new": "His proposed energy-bearing properties of time have not been established by reproducible evidence and are not accepted physical theory."
+      },
+      {
+        "field": "story",
+        "old": "he recorded a spectrum showing a release of gas from the crater Alphonsus on the Moon, evidence that the \"dead\" Moon might still be active, which was controversial then and is still discussed today.",
+        "new": "he recorded a spectrum from the lunar crater Alphonsus that he interpreted as evidence of gas emission. The interpretation was controversial; this astronomical report does not validate his separate claims about time."
+      },
+      {
+        "field": "why",
+        "old": "Prison gave him time to think about time, and the world still doesn't know what to make of his answer.",
+        "new": "A persecuted astronomer pursued an extraordinary idea; the human history is documented, while the claimed physics remains unverified."
+      }
+    ]
+  },
+  "45": {
+    "source_url": "https://chizhevsky.gmik.ru/en/meet-a-l-chizhevsky/",
+    "source_label": "Chizhevsky House Museum biography",
+    "russian": "АЛЕКСАНДР ЧИЖЕВСКИЙ · АЭРОИОНИЗАЦИЯ",
+    "evidence": "Working device",
+    "corrections": [
+      {
+        "field": "hook",
+        "old": "The \"Chizhevsky chandelier\" still hangs in Russian homes, but its inventor's bigger idea got him eight years in the camps.",
+        "new": "An air-ionizer inventor also pursued controversial ideas about the Sun—and endured eight years in the camps."
+      },
+      {
+        "field": "story",
+        "old": "Versions of it are still sold today, though the health claims are debated.",
+        "new": "Clinical benefits from room air ionization have not been established; systematic reviews do not support treating it as a proven general health intervention."
+      },
+      {
+        "field": "story",
+        "old": "His suggestion that solar cycles shape human history, including revolutions, was dangerous in a country that said history was driven by class struggle. He was attacked in the press, and in 1942 he was arrested and sentenced to eight years.",
+        "new": "His work attracted official hostility and press attacks. In January 1942 he was arrested following denunciations and sentenced to eight years. It is too simple to attribute the arrest solely to one theory about solar cycles."
+      },
+      {
+        "field": "why",
+        "old": "An idea about the Sun was enough to land him in a labor camp.",
+        "new": "A researcher’s survival and persecution deserve remembering without turning his disputed claims into established science."
+      }
+    ],
+    "additional_sources": [
+      {
+        "url": "https://link.springer.com/article/10.1186/1477-5751-12-14",
+        "label": "Systematic review of air ions and respiratory outcomes"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6483773/",
+        "label": "Cochrane review: ionisers for chronic asthma"
+      }
+    ]
+  },
+  "46": {
+    "source_url": "https://www.ncbi.nlm.nih.gov/nlmcatalog/95331",
+    "source_label": "US National Library of Medicine: Pirogov’s frozen-anatomy atlas",
+    "russian": "НИКОЛАЙ ПИРОГОВ",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "why",
+        "old": "Half of modern emergency medicine started in a Russian field hospital, and few outside Russia know his name.",
+        "new": "Anatomical mapping, battlefield anesthesia and organized wartime care met in one surgeon’s work."
+      }
+    ]
+  },
+  "47": {
+    "source_url": "https://achh.army.mil/history/book-wwii-blood-chapter1/",
+    "source_label": "US Army medical history: blood transfusion",
+    "russian": "СЕРГЕЙ ЮДИН",
+    "evidence": "Research record",
+    "corrections": []
+  },
+  "48": {
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/7499721/",
+    "source_label": "Ophthalmology profile of Svyatoslav Fyodorov",
+    "russian": "СВЯТОСЛАВ ФЁДОРОВ",
+    "evidence": "Working device",
+    "corrections": []
+  },
+  "49": {
+    "source_url": "https://www.sciencedirect.com/science/article/pii/S0738081X26000453",
+    "source_label": "Historical study of Nikolai Lunin’s nutrition experiments",
+    "russian": "НИКОЛАЙ ЛУНИН",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "title",
+        "old": "The Mice That Discovered Vitamins",
+        "new": "The Mice That Pointed Toward Vitamins"
+      },
+      {
+        "field": "story",
+        "old": "His professor didn't follow it up, and the work was largely forgotten.",
+        "new": "The finding was not consistently reproduced or developed into a clear identification of the missing nutrients, and its importance took time to emerge."
+      },
+      {
+        "field": "why",
+        "old": "He found a whole new class of nutrients with a few mice and a bottle of milk, then went quietly back to treating children.",
+        "new": "His feeding experiments pointed toward missing essential nutrients, decades before individual vitamins were isolated."
+      }
+    ]
+  },
+  "50": {
+    "source_url": "https://ar.culture.ru/en/subject/protivogaz-zelinskogo-s-maskoy-kummanta",
+    "source_label": "Tsarskoe Selo State Museum: Zelinsky–Kummant gas mask",
+    "russian": "НИКОЛАЙ ЗЕЛИНСКИЙ · ЭДУАРД КУММАНТ",
+    "evidence": "Working device",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "at the age of 91.",
+        "new": "at the age of 92."
+      }
+    ]
+  },
+  "51": {
+    "source_url": "https://chelmuseum.ru/science/articles/230-let-pavlu-anosovu/",
+    "source_label": "State Historical Museum of the Southern Urals",
+    "russian": "ПАВЕЛ АНОСОВ · БУЛАТ",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "The secret of making it had been lost for centuries.",
+        "new": "The historical methods behind such steels were poorly understood by European metallurgists."
+      },
+      {
+        "field": "story",
+        "old": "After his death, the method was largely lost again.",
+        "new": "His work remained an important reference in later attempts to understand and reproduce patterned crucible steels."
+      },
+      {
+        "field": "why",
+        "old": "He recovered a lost art through sheer persistence, and it slipped away again when he died.",
+        "new": "He tackled an old metallurgical problem with systematic experimental melts and close observation."
+      }
+    ]
+  },
+  "52": {
+    "source_url": "https://new.ras.ru/press-center/150-let-so-dnya-rozhdeniya-sergeya-lebedeva-sozdatelya-promyshlennogo-sinteticheskogo-kauchuka/",
+    "source_label": "Russian Academy of Sciences: Sergei Lebedev",
+    "russian": "СЕРГЕЙ ВАСИЛЬЕВИЧ ЛЕБЕДЕВ · КАУЧУК",
+    "evidence": "Working device",
+    "corrections": []
+  },
+  "53": {
+    "source_url": "https://www.mo-balakovo.ru/city/citizen/blinov/",
+    "source_label": "Balakovo municipal biography and 1879 privilege description",
+    "russian": "ФЁДОР БЛИНОВ · БЕСКОНЕЧНЫЕ РЕЛЬСЫ",
+    "evidence": "Working device",
+    "corrections": [
+      {
+        "field": "hook",
+        "old": "Decades before tanks and bulldozers, a self-taught Volga mechanic patented the caterpillar track.",
+        "new": "Decades before modern tanks and bulldozers, a self-taught Volga mechanic patented a wagon running on “endless rails.”"
+      },
+      {
+        "field": "story",
+        "old": "In 1888 he built a steam crawler tractor with two steam engines, one for each track. To turn, you ran one track faster than the other, the same way tanks and bulldozers steer today. He showed it at an exhibition in Nizhny Novgorod in 1896. It worked, but no investor or official took it up, and the crawler tractor was later developed in the United States by Holt and others.",
+        "new": "Later accounts credit him with a steam-powered crawler completed in 1888, using separate track drives for steering, and demonstrations at exhibitions. The documentary record for that powered tractor is less secure than the surviving 1879 privilege for the tracked wagon. Other inventors also developed continuous-track vehicles; this is not proof that all later crawlers descended from Blinov’s design."
+      },
+      {
+        "field": "story",
+        "old": "Blinov was born around 1831",
+        "new": "Blinov was born in 1827"
+      },
+      {
+        "field": "why",
+        "old": "The track under every tank and bulldozer started in a serf's workshop.",
+        "new": "A documented early tracked wagon, and a larger invention story whose later claims need careful handling."
+      }
+    ]
+  },
+  "54": {
+    "source_url": "https://www.erih.net/how-it-started/stories-about-people-biographies/biography/cherapanow",
+    "source_label": "European Route of Industrial Heritage: the Cherepanovs",
+    "russian": "ЕФИМ И МИРОН ЧЕРЕПАНОВЫ",
+    "evidence": "Working device",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "they could be bought, sold and ordered to work, without pay of their own.",
+        "new": "their legal status tied them to their owners, even as they carried out highly skilled technical work."
+      },
+      {
+        "field": "story",
+        "old": "Their skill eventually earned them their freedom, Yefim in 1833 and Miron in 1836.",
+        "new": "Their engineering achievements eventually brought both men their freedom in the 1830s."
+      }
+    ]
+  },
+  "55": {
+    "source_url": "https://library.bmstu.ru/ThematicExhibitions/Details/26",
+    "source_label": "Bauman Moscow State Technical University library: Yuriev archive",
+    "russian": "БОРИС ЮРЬЕВ · АВТОМАТ ПЕРЕКОСА",
+    "evidence": "Prototype",
+    "corrections": [
+      {
+        "field": "hook",
+        "old": "Every helicopter flying today uses a device invented by a 22-year-old Moscow student in 1911.",
+        "new": "In 1911, a young Moscow student developed an early swashplate, a mechanism central to conventional helicopter control."
+      },
+      {
+        "field": "story",
+        "old": "He couldn't afford a patent, and the swashplate was later reinvented and patented by others.",
+        "new": "Yuriev pursued protection for his helicopter designs, but the project had little money for development. Swashplate and cyclic-pitch control also developed through other inventors’ work."
+      },
+      {
+        "field": "why",
+        "old": "A student's idea became the heart of every helicopter, and he got almost no credit outside Russia.",
+        "new": "A student helped solve a central helicopter-control problem long before helicopters became practical transport."
+      }
+    ]
+  },
+  "56": {
+    "source_url": "https://centennialofflight.net/essay/Prehistory/late_1800s/PH4.htm",
+    "source_label": "US Centennial of Flight Commission historical essay",
+    "russian": "АЛЕКСАНДР МОЖАЙСКИЙ",
+    "evidence": "Prototype",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "and it became the first Western-style ship built in Japan.",
+        "new": "an important early episode in Japan’s adoption of Western shipbuilding methods."
+      }
+    ]
+  },
+  "57": {
+    "source_url": "https://artsandculture.google.com/asset/mikhail-botvinnik-working-with-an-early-computer-from-fide-archive/rQGjhb_cfeSh8Q?hl=en",
+    "source_label": "FIDE archive: Botvinnik and selective computer search",
+    "russian": "МИХАИЛ БОТВИННИК · ПИОНЕР",
+    "evidence": "Prototype",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "and brute-force programs won the race,",
+        "new": "and programs combining extensive search with selective heuristics became far stronger,"
+      },
+      {
+        "field": "why",
+        "old": "He lost the race to brute force, but asked the right question.",
+        "new": "His ambitious program fell short, but selective search remained a lasting problem in computer chess."
+      }
+    ]
+  },
+  "58": {
+    "source_url": "https://www.iter.org/fr/node/20687/kremlin-letter-started-it-all?untranslated=1",
+    "source_label": "ITER: Lavrentiev’s Kremlin letter",
+    "russian": "ОЛЕГ ЛАВРЕНТЬЕВ",
+    "evidence": "Proposal",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "hold hot plasma in place with fields",
+        "new": "hold hot plasma in place using electrostatic fields"
+      }
+    ]
+  },
+  "59": {
+    "source_url": "https://airandspace.si.edu/exhibition/outside-spacecraft/floating.html",
+    "source_label": "Smithsonian National Air and Space Museum: first spacewalk",
+    "russian": "АЛЕКСЕЙ ЛЕОНОВ · ВОСХОД-2",
+    "evidence": "Research record",
+    "corrections": []
+  },
+  "60": {
+    "source_url": "https://www.buran.ru/htm/necrolo2.htm",
+    "source_label": "Lozino-Lozinsky obituary and program history",
+    "russian": "ГЛЕБ ЛОЗИНО-ЛОЗИНСКИЙ · СПИРАЛЬ · БУРАН",
+    "evidence": "Prototype",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "he worked on jet engines for the MiG fighters, including the record-breaking MiG-25.",
+        "new": "he worked on propulsion and aircraft development in the MiG bureau, including work connected with the MiG-25."
+      },
+      {
+        "field": "story",
+        "old": "already in his late 60s",
+        "new": "66"
+      }
+    ]
+  },
+  "61": {
+    "source_url": "https://nmspacemuseum.org/inductee/fridrikh-a-tsander/",
+    "source_label": "New Mexico Museum of Space History: Friedrich Zander",
+    "russian": "ФРИДРИХ ЦАНДЕР · ГИРД",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "GIRD launched the USSR's first liquid-fuel rockets",
+        "new": "GIRD launched early Soviet hybrid- and liquid-propellant rockets"
+      }
+    ]
+  },
+  "62": {
+    "source_url": "https://ntrs.nasa.gov/api/citations/20160008869/downloads/20160008869.pdf?attachment=true",
+    "source_label": "NASA history: Soviet rocket engine development",
+    "russian": "ВАЛЕНТИН ГЛУШКО · РД-107 · РД-108",
+    "evidence": "Working device",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "the most powerful liquid-fuel rocket engine ever flown",
+        "new": "an exceptionally powerful liquid-fuel rocket engine"
+      },
+      {
+        "field": "story",
+        "old": "their feud over engines and fuels helped doom the Soviet Moon rocket.",
+        "new": "their disputes over engines and fuels were one factor in a lunar program also troubled by launcher failures, competing projects and limited resources."
+      }
+    ]
+  },
+  "63": {
+    "source_url": "https://www.kpi.ua/en/babakin",
+    "source_label": "Igor Sikorsky Kyiv Polytechnic Institute: Babakin biography",
+    "russian": "ГЕОРГИЙ БАБАКИН · ЛУНА-9",
+    "evidence": "Working device",
+    "corrections": []
+  },
+  "64": {
+    "source_url": "https://www.smithsonianmag.com/smithsonian-institution/sad-story-laika-space-dog-and-her-one-way-trip-orbit-1-180968728/",
+    "source_label": "Smithsonian: Laika and the spacecraft record",
+    "russian": "ЛАЙКА · ОЛЕГ ГАЗЕНКО",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "Only in 2002 was it confirmed that she died within a few hours from overheating.",
+        "new": "Later disclosures, including a detailed 2002 account, established that she died within hours as the cabin overheated."
+      },
+      {
+        "field": "why",
+        "old": "A rushed triumph, a death hidden for 45 years, and a scientist honest enough to say sorry.",
+        "new": "A rushed triumph, an early death concealed by official accounts, and a scientist willing to express regret."
+      }
+    ]
+  },
+  "65": {
+    "source_url": "https://www.nasa.gov/history/sally-ride-first-american-woman-in-space/",
+    "source_label": "NASA: Tereshkova and Vostok 6",
+    "russian": "ВАЛЕНТИНА ТЕРЕШКОВА · ВОСТОК-6",
+    "evidence": "Research record",
+    "corrections": []
+  },
+  "66": {
+    "source_url": "https://rostec.ru/en/media/pressrelease/1703/",
+    "source_label": "Rostec / engine manufacturer: Antares NK-33–AJ26 launch, 2013",
+    "russian": "НИКОЛАЙ КУЗНЕЦОВ · НК-33",
+    "evidence": "Working device",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "Kuznetsov quietly kept about 150 engines in storage.",
+        "new": "A stock of engines survived in storage despite the cancelled program."
+      },
+      {
+        "field": "hook",
+        "old": "Ordered to destroy the engines of the Soviet Moon rocket, their designer stored them instead, and 25 years later America bought them.",
+        "new": "Engines built for the cancelled Soviet Moon program survived in storage and eventually flew on an American rocket."
+      },
+      {
+        "field": "why",
+        "old": "A designer disobeyed the order to destroy his work, and the engines outlived the country that built them.",
+        "new": "The engines outlived the country that built them and found an unexpected second career."
+      }
+    ]
+  },
+  "67": {
+    "source_url": "https://nmspacemuseum.org/inductee/sergei-k-krikalev/",
+    "source_label": "New Mexico Museum of Space History: Krikalev",
+    "russian": "СЕРГЕЙ КРИКАЛЁВ · МИР",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "With no money and no ready replacement, his return kept getting postponed.",
+        "new": "Political and financial upheaval complicated crew rotations, and he agreed to extend his stay. A Soyuz return craft remained available; he was not physically stranded without a way home."
+      }
+    ]
+  },
+  "68": {
+    "source_url": "https://www.cfa.harvard.edu/news/remembering-astronomer-henrietta-swan-leavitt",
+    "source_label": "Harvard & Smithsonian Center for Astrophysics: Leavitt",
+    "russian": "ГЕНРИЕТТА ЛИВИТТ · ЦЕФЕИДЫ",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "and the observatory's director published her result under his name, with credit to her inside.",
+        "new": "and the observatory’s 1912 circular appeared under its director’s name while explicitly crediting her work inside."
+      }
+    ]
+  },
+  "69": {
+    "source_url": "https://www.cambridge.org/core/journals/proceedings-of-the-international-astronomical-union/article/mikhail-lomonosov-and-the-discovery-of-the-atmosphere-of-venus-during-the-1761-transit/DB3469287EF11031C59499390B271609",
+    "source_label": "International Astronomical Union historical study",
+    "russian": "МИХАИЛ ЛОМОНОСОВ · АТМОСФЕРА ВЕНЕРЫ",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "title",
+        "old": "The Fisherman's Son Who Discovered Venus Has Air",
+        "new": "The Fisherman’s Son Who Inferred Venus Has Air"
+      },
+      {
+        "field": "story",
+        "old": "He concluded that Venus must be surrounded by a thick atmosphere that bends sunlight.",
+        "new": "He concluded that Venus must have a substantial atmosphere that bends sunlight. He is traditionally credited with this discovery, although later historians and astronomers have disputed whether the precise optical features he reported demonstrate that he actually saw the atmospheric aureole."
+      },
+      {
+        "field": "why",
+        "old": "A fisherman's son walked to Moscow and went on to see something no one else noticed: air on another planet.",
+        "new": "A fisherman’s son walked to Moscow and became a polymath whose interpretation of a Venus transit still prompts historical debate."
+      }
+    ],
+    "additional_sources": [
+      {
+        "url": "https://authors.library.caltech.edu/records/7kc09-rsw06",
+        "label": "Pasachoff and Sheehan: critique of the traditional Lomonosov interpretation"
+      }
+    ]
+  },
+  "70": {
+    "source_url": "https://rotations.berkeley.edu/a-tumbling-t-handle-in-space/",
+    "source_label": "UC Berkeley: rigid-body rotation and the Dzhanibekov effect",
+    "russian": "ВЛАДИМИР ДЖАНИБЕКОВ · ПРОМЕЖУТОЧНАЯ ОСЬ",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "dead, frozen, tumbling Salyut 7",
+        "new": "unpowered, frozen Salyut 7"
+      }
+    ]
+  },
+  "71": {
+    "source_url": "https://www.scholarpedia.org/article/Yarkovsky_effect",
+    "source_label": "Scholarpedia: Yarkovsky and YORP effects",
+    "russian": "ИВАН ЯРКОВСКИЙ",
+    "evidence": "Research record",
+    "corrections": []
+  },
+  "72": {
+    "source_url": "https://mathshistory.st-andrews.ac.uk//Miscellaneous/messages/02-12/",
+    "source_label": "University of St Andrews MacTutor: Lobachevsky’s 1826 presentation",
+    "russian": "НИКОЛАЙ ЛОБАЧЕВСКИЙ",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "through a point, exactly one line can run parallel to another.",
+        "new": "through a point outside a given line, exactly one line in the same plane can run parallel to it."
+      },
+      {
+        "field": "story",
+        "old": "It was logically perfect and completely strange.",
+        "new": "It was an unfamiliar, internally coherent mathematical alternative to Euclidean geometry."
+      }
+    ]
+  },
+  "73": {
+    "source_url": "https://mathshistory.st-andrews.ac.uk//Biographies/Kovalevskaya/",
+    "source_label": "University of St Andrews MacTutor: Kovalevskaya biography",
+    "russian": "СОФЬЯ КОВАЛЕВСКАЯ",
+    "evidence": "Research record",
+    "corrections": []
+  },
+  "74": {
+    "source_url": "https://www.aps.org/apsnews/2024/05/friedmann-universe-expand-contract",
+    "source_label": "American Physical Society — Friedmann’s expanding universe",
+    "russian": "АЛЕКСАНДР ФРИДМАН",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "died of typhus at 37",
+        "new": "died of typhoid fever at 37"
+      }
+    ]
+  },
+  "75": {
+    "source_url": "https://wmap.gsfc.nasa.gov/universe/WMAP_Universe.pdf",
+    "source_label": "NASA WMAP — history of primordial elements and the CMB",
+    "russian": "ГЕОРГИЙ ГАМОВ · РАЛЬФ АЛЬФЕР · РОБЕРТ ГЕРМАН",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "That work, with Robert Herman, predicted the faint afterglow of the Big Bang, the cosmic microwave background radiation, found in 1965.",
+        "new": "This hot-universe program also led Ralph Alpher and Robert Herman to predict a surviving thermal background, the cosmic microwave background radiation, discovered in 1965."
+      }
+    ]
+  },
+  "76": {
+    "source_url": "https://www.rmg.co.uk/stories/time/harrisons-clocks-longitude-problem",
+    "source_label": "Royal Museums Greenwich — Harrison’s timekeepers",
+    "russian": "ДЖОН ГАРРИСОН",
+    "evidence": "Working device",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "On a voyage to Jamaica in 1761–62, H4 lost only about five seconds in more than 80 days.",
+        "new": "On its 1761–62 trial voyage to Jamaica, H4 met the most demanding accuracy standard of the Longitude Act, with a residual error of only about five seconds after its known daily rate was allowed for."
+      },
+      {
+        "field": "story",
+        "old": "Parliament awarded him most of the money in 1773",
+        "new": "Parliament awarded him an additional £8,750 in 1773"
+      },
+      {
+        "field": "why",
+        "old": "A man without schooling solved what the scientists couldn't, and had to fight them to be paid.",
+        "new": "A self-taught clockmaker made longitude at sea practical and fought for recognition and payment."
+      }
+    ]
+  },
+  "77": {
+    "source_url": "https://www.geolsoc.org.uk/the-library/online-exhibitions/mary-anning-and-the-geological-society/bibliography-mary-anning/magazine-of-natural-history/",
+    "source_label": "Geological Society — Mary Anning’s 1839 scientific publication",
+    "russian": "МЭРИ ЭННИНГ",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "she couldn't join the Geological Society or publish under her own name,",
+        "new": "she could not join the Geological Society, and her access to formal scientific publication was severely restricted. One scientific letter was nevertheless published under her name in 1839,"
+      },
+      {
+        "field": "hook",
+        "old": "found the monsters that proved the world was ancient, and men took the credit.",
+        "new": "found spectacular extinct reptiles that transformed knowledge of the ancient world, while formal recognition often went to men."
+      }
+    ]
+  },
+  "78": {
+    "source_url": "https://letopis.msu.ru/node/8552",
+    "source_label": "Moscow State University — Nikolai Zhukovsky",
+    "russian": "НИКОЛАЙ ЖУКОВСКИЙ",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "why",
+        "old": "Every wing and every water pipe in the world obeys equations from this man.",
+        "new": "His work on lift and pressure waves still belongs in the working engineer’s toolkit."
+      }
+    ]
+  },
+  "79": {
+    "source_url": "https://www.taganrog-avia.ru/aircraft/Beriev/_2022_beriev_com/eng/Pr_rel_e/pr_110e.html",
+    "source_label": "Beriev Aircraft Company — Bartini and the VVA-14",
+    "russian": "РОБЕРТ БАРТИНИ · ВВА-14",
+    "evidence": "Prototype",
+    "corrections": [
+      {
+        "field": "title",
+        "old": "The Mysterious Italian Who Designed Flying Boats That Took Off Straight Up",
+        "new": "The Mysterious Italian Who Designed a Flying Boat to Take Off Straight Up"
+      },
+      {
+        "field": "story",
+        "old": "A prototype flew, but the program ended after his death.",
+        "new": "A prototype flew conventionally in 1972, but the intended lift engines were never delivered, so vertical takeoff and landing were never demonstrated. Testing continued after Bartini’s death before the program ended."
+      },
+      {
+        "field": "story",
+        "old": "He also published a theory that the world has three dimensions of space and three of time, still considered speculative.",
+        "new": "He also published speculative ideas about three dimensions of space and three of time; these were not established physical discoveries."
+      }
+    ]
+  },
+  "80": {
+    "source_url": "https://dil.kpi.ua/Content/555/Tom_1_Vydatni_konstruktory_Ukrainy.pdf",
+    "source_label": "Kyiv Polytechnic Institute — outstanding aircraft designers of Ukraine",
+    "russian": "КОНСТАНТИН КАЛИНИН · К-7",
+    "evidence": "Prototype",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "A second K-7 was started but never finished.",
+        "new": "Follow-on K-7 airframes were started but not completed."
+      }
+    ]
+  },
+  "81": {
+    "source_url": "https://www.antonov.com/history/an-225-mriya",
+    "source_label": "Antonov — An-225 Mriya history",
+    "russian": "ОЛЕГ АНТОНОВ · АН-225 МРИЯ",
+    "evidence": "Working device",
+    "corrections": [
+      {
+        "field": "hook",
+        "old": "From a boy's homemade glider to the largest airplane ever built.",
+        "new": "From a boy's homemade glider to the bureau that built the world's heaviest airplane."
+      },
+      {
+        "field": "story",
+        "old": "it was the largest airplane in the world.",
+        "new": "it was the world’s heaviest airplane by maximum takeoff weight."
+      }
+    ]
+  },
+  "82": {
+    "source_url": "https://www.nps.gov/articles/aredboltfromtheblue.htm",
+    "source_label": "US National Park Service — Chkalov’s 1937 transpolar flight",
+    "russian": "ВАЛЕРИЙ ЧКАЛОВ · ГЕОРГИЙ БАЙДУКОВ · АЛЕКСАНДР БЕЛЯКОВ",
+    "evidence": "Working device",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "the first flight from Europe to America over the Pole.",
+        "new": "the first nonstop airplane flight from Europe to America over the North Pole."
+      }
+    ]
+  },
+  "83": {
+    "source_url": "https://sova.si.edu/record/nasm.2005.0016",
+    "source_label": "Smithsonian National Air and Space Museum — Alexander de Seversky archive",
+    "russian": "АЛЕКСАНДР СЕВЕРСКИЙ",
+    "evidence": "Working device",
+    "corrections": []
+  },
+  "84": {
+    "source_url": "https://www.fai.org/record/9916",
+    "source_label": "Fédération Aéronautique Internationale — V-12 payload-altitude record",
+    "russian": "МИХАИЛ МИЛЬ · В-12 · МИ-26",
+    "evidence": "Working device",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "a record that still stands for helicopters.",
+        "new": "a historic helicopter payload-altitude record."
+      }
+    ]
+  },
+  "85": {
+    "source_url": "https://airandspace.si.edu/multimedia-gallery/4492hjpg",
+    "source_label": "Smithsonian National Air and Space Museum — Santos-Dumont’s 1906 public flight",
+    "russian": "АЛЬБЕРТО САНТОС-ДЮМОН",
+    "evidence": "Working device",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "Cartier made one of the first men's wristwatches for him.",
+        "new": "Cartier made an early wristwatch designed for his use while flying."
+      }
+    ]
+  },
+  "86": {
+    "source_url": "https://www.iaea.org/sites/default/files/26404794246.pdf",
+    "source_label": "IAEA Bulletin — Obninsk’s first grid connection",
+    "russian": "ДМИТРИЙ БЛОХИНЦЕВ · НИКОЛАЙ ДОЛЛЕЖАЛЬ · ОБНИНСК",
+    "evidence": "Working device",
+    "corrections": []
+  },
+  "87": {
+    "source_url": "https://www.nobelpeaceprize.org/laureates/1975",
+    "source_label": "Norwegian Nobel Institute — Andrei Sakharov",
+    "russian": "АНДРЕЙ САХАРОВ",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "He became the youngest full member of the Academy of Sciences",
+        "new": "He became one of the youngest full members of the Academy of Sciences"
+      }
+    ]
+  },
+  "88": {
+    "source_url": "https://www.mpic.de/4469988/die-entdeckung-der-kernspaltung",
+    "source_label": "Max Planck Institute for Chemistry — discovery of nuclear fission",
+    "russian": "ЛИЗА МЕЙТНЕР · ОТТО ФРИШ",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "Otto Hahn in Berlin found that",
+        "new": "Otto Hahn and Fritz Strassmann in Berlin found that"
+      },
+      {
+        "field": "story",
+        "old": "a much lighter element, and couldn't explain it. He wrote",
+        "new": "a much lighter element, and could not explain it. Hahn wrote"
+      }
+    ]
+  },
+  "89": {
+    "source_url": "https://www.computer-museum.ru/english/strela.htm",
+    "source_label": "Russian Virtual Computer Museum — Strela’s design team",
+    "russian": "БАШИР РАМЕЕВ · СТРЕЛА · УРАЛ",
+    "evidence": "Working device",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "Rameev then became chief engineer of Strela",
+        "new": "Rameev then became a deputy chief designer of Strela, led by Yuri Bazilevsky"
+      }
+    ]
+  },
+  "90": {
+    "source_url": "https://www.computer-museum.ru/english/galglory_en/kitov_4.php",
+    "source_label": "Russian Virtual Computer Museum — a colleague’s account of Kitov",
+    "russian": "АНАТОЛИЙ КИТОВ",
+    "evidence": "Proposal",
+    "corrections": [
+      {
+        "field": "hook",
+        "old": "In 1959, a Soviet officer proposed a nationwide computer network, and was expelled from the Party for it.",
+        "new": "In 1959, a Soviet officer proposed a nationwide computer network; after criticizing the military’s handling of computing, he was expelled from the Party in 1960."
+      },
+      {
+        "field": "story",
+        "old": "A commission rejected his plan, and he was expelled from the Communist Party and removed from his post.",
+        "new": "A commission rejected his plan; in 1960 he was expelled from the Communist Party and removed from his post."
+      }
+    ]
+  },
+  "91": {
+    "source_url": "https://www.computerhistory.org/chess/stl-430b9bbd75253/",
+    "source_label": "Computer History Museum — Kaissa’s 1974 championship",
+    "russian": "КАИССА · МИХАИЛ ДОНСКОЙ · ВЛАДИМИР АРЛАЗАРОВ · ГЕОРГИЙ АДЕЛЬСОН-ВЕЛЬСКИЙ",
+    "evidence": "Working device",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "Their work on Kaissa was done with Soviet computers far slower than those in the West, which forced them to be clever.",
+        "new": "Their work on Kaissa demanded careful use of the limited computing resources available to them."
+      }
+    ]
+  },
+  "92": {
+    "source_url": "https://encyclopedia.yivo.org/article/2263",
+    "source_label": "YIVO Encyclopedia — Leonid Kantorovich",
+    "russian": "ЛЕОНИД КАНТОРОВИЧ",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "His answer was a new branch of mathematics: linear programming",
+        "new": "His answer was pioneering work in linear programming"
+      },
+      {
+        "field": "story",
+        "old": "and he is said to have checked the ice himself.",
+        "new": "according to accounts of his wartime work. Stories that he checked the ice personally are less securely documented."
+      }
+    ]
+  },
+  "93": {
+    "source_url": "https://www.cs.columbia.edu/2016/vladimir-vapnik-awarded-the-ieee-john-von-neumann-medal/",
+    "source_label": "Columbia University — Vladimir Vapnik and statistical learning theory",
+    "russian": "ВЛАДИМИР ВАПНИК · АЛЕКСЕЙ ЧЕРВОНЕНКИС",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "hook",
+        "old": "One of the most important ideas in machine learning was worked out in a Soviet institute and became famous only after its author emigrated at 54.",
+        "new": "A foundational theory of learning from examples was developed in Moscow; its applications reached a wider audience in the 1990s."
+      },
+      {
+        "field": "story",
+        "old": "became the support vector machine, introduced at Bell Labs in the 1990s.",
+        "new": "became the modern support vector machine, developed with colleagues including Corinna Cortes at Bell Labs in the 1990s."
+      },
+      {
+        "field": "story",
+        "old": "where his ideas suddenly found the computers and the community to take off.",
+        "new": "where he continued developing statistical learning methods with new colleagues."
+      },
+      {
+        "field": "why",
+        "old": "The theory was ready in Moscow. The world noticed only when its author crossed the ocean.",
+        "new": "Work begun in Moscow became part of a worldwide machine-learning toolkit."
+      }
+    ]
+  },
+  "94": {
+    "source_url": "https://tcm.computerhistory.org/reports/TCMReportWinter1983.pdf",
+    "source_label": "Computer History Museum — Konrad Zuse and early computers",
+    "russian": "КОНРАД ЦУЗЕ · Z1 · Z3",
+    "evidence": "Working device",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "The German government showed little interest in his machines during the war.",
+        "new": "His early work struggled for support, although German wartime agencies did provide funding for some of his later machines."
+      },
+      {
+        "field": "hook",
+        "old": "The world's first working programmable computer was built in Berlin and destroyed by a bomb.",
+        "new": "A pioneering programmable, fully automatic digital computer was built in Berlin and destroyed in an air raid."
+      },
+      {
+        "field": "why",
+        "old": "He beat everyone to the programmable computer, in a living room, and almost no one noticed at the time.",
+        "new": "A pioneering programmable computer grew from home-built experiments, and much of the original hardware was lost in war."
+      }
+    ]
+  },
+  "95": {
+    "source_url": "https://www.archives.gov/research/alic/reference/military/bletchley-park-visitors-book.html",
+    "source_label": "US National Archives — Turing, Welchman and the Bombe",
+    "russian": "АЛАН ТЬЮРИНГ",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "and designed the Bombe, an electromechanical machine",
+        "new": "and developed the British Bombe with Gordon Welchman and colleagues, an electromechanical machine"
+      }
+    ]
+  },
+  "96": {
+    "source_url": "https://journals.sagepub.com/doi/10.1177/09526951251404842",
+    "source_label": "History of the Human Sciences — archival study of Cold War voice forensics",
+    "russian": "МАРФИНСКАЯ ШАРАШКА · АЛЕКСАНДР СОЛЖЕНИЦЫН · ЛЕВ КОПЕЛЕВ",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "It was an early form of voice biometrics, the technology behind today's voice recognition and forensic voice analysis.",
+        "new": "This was an early investigation of speaker identification, part of a wider international history of voice forensics. A direct technical lineage to today’s voice biometrics is not established here."
+      },
+      {
+        "field": "why",
+        "old": "Prisoners pioneered voice identification for the state that had locked them up.",
+        "new": "Prisoners investigated voice identification for the state that had locked them up."
+      }
+    ]
+  },
+  "97": {
+    "source_url": "https://rep.adw-goe.de/bitstream/handle/11858/00-001S-0000-002C-DCF8-0/9783110253061AdW16_II_14_Paul%20Schilling%20von%20Canstadt.pdf?isAllowed=y&sequence=1",
+    "source_label": "Göttingen Academy — Paul Schilling von Canstadt",
+    "russian": "ПАВЕЛ ШИЛЛИНГ",
+    "evidence": "Working device",
+    "corrections": []
+  },
+  "98": {
+    "source_url": "https://www.prlib.ru/Great_Russia/outstanding_scientists_XX/Knorozov",
+    "source_label": "Presidential Library — Yuri Knorozov biography",
+    "russian": "ЮРИЙ КНОРОЗОВ",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "served in World War II as an artillery spotter.",
+        "new": "served during World War II as a telephone operator in an artillery regiment in reserve units near Moscow."
+      },
+      {
+        "field": "story",
+        "old": "A famous story says that in Berlin in 1945 he saved books from a burning library, among them the book that started his work; he himself said the books were packed for evacuation.",
+        "new": "A famous story places him rescuing books from a burning Berlin library in 1945. His documented service was near Moscow; the Berlin rescue should be treated as a legend rather than an established event."
+      },
+      {
+        "field": "story",
+        "old": "Today most Maya inscriptions can be read.",
+        "new": "His phonetic approach became central to the later decipherment of Maya writing."
+      }
+    ]
+  },
+  "99": {
+    "source_url": "https://www.nsa.gov/Press-Room/Digital-Media-Center/Biographies/Biography-View-Page/Article/1621548/marian-rejewski/",
+    "source_label": "US National Security Agency — Marian Rejewski",
+    "russian": "МАРИАН РЕЕВСКИЙ · ЕЖИ РУЖИЦКИЙ · ГЕНРИХ ЗЫГАЛЬСКИЙ",
+    "evidence": "Working device",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "Turing's Bombe (story 95) built on their work.",
+        "new": "Their breakthroughs made the later British Enigma effort possible, though Turing and Welchman’s Bombe used a different method."
+      },
+      {
+        "field": "story",
+        "old": "and fled again in 1940, ending up in a Spanish prison for a time before reaching Britain.",
+        "new": "and later escaped occupied France through Spain, spending time in a Spanish prison before reaching Britain in 1943."
+      }
+    ]
+  },
+  "100": {
+    "source_url": "https://www.nature.com/articles/132962e0",
+    "source_label": "Nature, 1933 — contemporary account of the iconoscope and kinescope",
+    "russian": "ВЛАДИМИР ЗВОРЫКИН",
+    "evidence": "Working device",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "his team developed the iconoscope, an electronic camera tube, and the kinescope, a picture tube.",
+        "new": "his team developed the iconoscope camera tube and improved electronic picture-tube technology associated with the kinescope."
+      }
+    ]
+  },
+  "101": {
+    "source_url": "https://www.nobelprize.org/laureate/83",
+    "source_label": "Nobel Prize — Prokhorov and the 1964 physics award",
+    "russian": "НИКОЛАЙ БАСОВ · АЛЕКСАНДР ПРОХОРОВ",
+    "evidence": "Working device",
+    "corrections": []
+  },
+  "102": {
+    "source_url": "https://www.invent.org/inductees/gordon-gould",
+    "source_label": "National Inventors Hall of Fame — Gordon Gould",
+    "russian": "ГОРДОН ГУЛД",
+    "evidence": "Working device",
+    "corrections": [
+      {
+        "field": "hook",
+        "old": "to prove it was his.",
+        "new": "to establish his patent claims."
+      },
+      {
+        "field": "story",
+        "old": "he finally won key laser patents",
+        "new": "he finally received key patents covering laser technologies"
+      }
+    ]
+  },
+  "103": {
+    "source_url": "https://www.jcbose.ac.in/centenary",
+    "source_label": "Bose Institute — Jagadish Chandra Bose’s 1895 millimeter-wave work",
+    "russian": "ДЖАГАДИШ ЧАНДРА БОС",
+    "evidence": "Working device",
+    "corrections": [
+      {
+        "field": "title",
+        "old": "The Scientist in Calcutta Who Refused to Patent Radio",
+        "new": "The Scientist in Calcutta Who Shared His Radio Discoveries"
+      },
+      {
+        "field": "story",
+        "old": "He refused to patent most of his inventions, believing knowledge should be free.",
+        "new": "He generally preferred to share his discoveries, although a detector patent was filed in the United States in his name and granted in 1904."
+      }
+    ]
+  },
+  "104": {
+    "source_url": "https://www.murraystate.edu/academics/CollegesDepartments/CollegeOfScienceEngineeringandTechnology/CollegeOfSciencePrograms/instituteOfEngineering/ccit/nathanstubblefield/excerpt.aspx",
+    "source_label": "Murray State University — Stubblefield history and family affidavits",
+    "russian": "НАТАН СТАББЛФИЛД",
+    "evidence": "Working device",
+    "corrections": [
+      {
+        "field": "hook",
+        "old": "Around 1892, a Kentucky farmer transmitted the human voice without wires, and died alone in a shack.",
+        "new": "A Kentucky farmer publicly demonstrated wireless voice in 1902, then died largely forgotten."
+      },
+      {
+        "field": "story",
+        "old": "it was one of the first practical demonstrations of wireless voice.",
+        "new": "it was an early demonstration of wireless voice by methods distinct from ordinary radio broadcasting."
+      }
+    ]
+  },
+  "105": {
+    "source_url": "https://www.in.gov/history/about-indiana-history-and-trivia/explore-indiana-history-by-topic/marking-hoosier-history-archive/philo-t-farnsworth-the-father-of-television/",
+    "source_label": "Indiana Historical Bureau — Philo Farnsworth",
+    "russian": "ФИЛО ФАРНСУОРТ",
+    "evidence": "Working device",
+    "corrections": [
+      {
+        "field": "why",
+        "old": "A teenager invented television in a field, and a corporation fought him for years over the credit.",
+        "new": "A teenager’s idea became a working electronic television system, followed by years of corporate patent disputes."
+      }
+    ]
+  },
+  "106": {
+    "source_url": "https://www.invent.org/inductees/granville-woods",
+    "source_label": "National Inventors Hall of Fame — Granville Woods",
+    "russian": "ГРЭНВИЛЛ ВУДС",
+    "evidence": "Working device",
+    "corrections": []
+  },
+  "107": {
+    "source_url": "https://www.whipplemuseum.cam.ac.uk/explore-whipple-collections/acoustics/ernst-chladni-physicist-musician-and-musical-instrument-maker",
+    "source_label": "University of Cambridge Whipple Museum — Ernst Chladni",
+    "russian": "ЭРНСТ ХЛАДНИ",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "why",
+        "old": "A man with no university job founded the science of sound, and also proved rocks fall from the sky.",
+        "new": "An independent researcher helped establish experimental acoustics and argued correctly that meteorites come from space."
+      }
+    ]
+  },
+  "108": {
+    "source_url": "https://history.aip.org/catalog/icos/24.html",
+    "source_label": "American Institute of Physics — Armstrong papers",
+    "russian": "ЭДВИН АРМСТРОНГ",
+    "evidence": "Working device",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "making Armstrong's existing stations and receivers obsolete overnight",
+        "new": "forcing existing FM broadcasters and listeners to change frequencies and replace or modify equipment"
+      },
+      {
+        "field": "story",
+        "old": "eventually won them all",
+        "new": "eventually secured favorable judgments and settlements"
+      }
+    ]
+  },
+  "109": {
+    "source_url": "https://hermitagemuseum.org/explore/collections/category_10/element_262",
+    "source_label": "State Hermitage — Peter I scientific instruments and lathes",
+    "russian": "АНДРЕЙ НАРТОВ",
+    "evidence": "Working device",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "Around 1717–18, Andrey Nartov built lathes",
+        "new": "In the early eighteenth century, Andrey Nartov developed copying lathes"
+      },
+      {
+        "field": "story",
+        "old": "That kind of mechanical tool holder, the slide rest, is the heart of every lathe, and it is usually credited to the Englishman Henry Maudslay around 1800.",
+        "new": "His mechanisms were important forerunners of later machine-tool carriages. Henry Maudslay helped develop precision industrial lathes around 1800; invention of the slide rest has a longer, shared history."
+      }
+    ]
+  },
+  "110": {
+    "source_url": "https://www.tankarchives.com/2014/08/today-in-history-tsar-tank.html",
+    "source_label": "Tank Archives — Tsar Tank trials",
+    "russian": "НИКОЛАЙ ЛЕБЕДЕНКО · ЦАРЬ-ТАНК",
+    "evidence": "Prototype",
+    "corrections": []
+  },
+  "111": {
+    "source_url": "https://www.ars.usda.gov/research/publications/publication/?seqNo115=236177",
+    "source_label": "USDA Agricultural Research Service — early vegetable-oil diesel history",
+    "russian": "РУДОЛЬФ ДИЗЕЛЬ",
+    "evidence": "Working device",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "His first test engine in 1893 exploded and nearly killed him.",
+        "new": "His early trials in 1893 were difficult and sometimes dangerous."
+      },
+      {
+        "field": "story",
+        "old": "He also believed engines could run on vegetable oils, and at the 1900 Paris World's Fair one ran on peanut oil.",
+        "new": "He also discussed vegetable oils as fuels. At the 1900 Paris World's Fair, a diesel engine exhibited by the French Otto Company ran on peanut oil at the French government's request."
+      }
+    ]
+  },
+  "112": {
+    "source_url": "https://sirismm.si.edu/EADpdfs/NMAH.AC.1406.pdf",
+    "source_label": "Smithsonian Archives Center — Robert W. Kearns papers",
+    "russian": "РОБЕРТ КЕРНС",
+    "evidence": "Working device",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "In 1990 a jury awarded him about $10 million from Ford, and in 1992 he won about $30 million from Chrysler, including interest.",
+        "new": "In July 1990, a jury awarded him $10.2 million from Ford. In June 1992 he was awarded $11 million from Chrysler; the later total grew substantially with interest and other amounts."
+      }
+    ]
+  },
+  "113": {
+    "source_url": "https://immit.spbstu.ru/news/d_k_chernov_osnovopolozghnik_nauchnoy_metallografii/",
+    "source_label": "Peter the Great St Petersburg Polytechnic University — Chernov",
+    "russian": "ДМИТРИЙ ЧЕРНОВ",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "hook",
+        "old": "Every heat treater in the world uses points first found by a Russian engineer investigating cracked cannon.",
+        "new": "Investigating cracked cannon helped Dmitry Chernov identify the critical temperatures that underpin modern steel heat treatment."
+      },
+      {
+        "field": "story",
+        "old": "since there were no good thermometers for it",
+        "new": "using the visual methods available in his workshop"
+      },
+      {
+        "field": "why",
+        "old": "Every quenched and tempered part in your shop follows a law first written down by this man.",
+        "new": "His work helped explain the transformations behind the quenched and tempered parts in a modern workshop."
+      }
+    ]
+  },
+  "114": {
+    "source_url": "https://paton.org.ua/en/history/foundation/",
+    "source_label": "E.O. Paton Electric Welding Institute — foundation",
+    "russian": "ЕВГЕНИЙ ПАТОН",
+    "evidence": "Working device",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "which became the Electric Welding Institute",
+        "new": "which became the Electric Welding Institute in 1934"
+      }
+    ]
+  },
+  "115": {
+    "source_url": "https://ntrs.nasa.gov/api/citations/20200002259/downloads/20200002259.pdf",
+    "source_label": "NASA — in-space welding devices history",
+    "russian": "БОРИС ПАТОН · ВУЛКАН",
+    "evidence": "Working device",
+    "corrections": []
+  },
+  "116": {
+    "source_url": "https://kpfu.ru/eng/about-the-university/kfu-structure/museums/evgeny-zavoisky-lab-museum/collections-history",
+    "source_label": "Kazan Federal University — Zavoisky laboratory museum",
+    "russian": "ЕВГЕНИЙ ЗАВОЙСКИЙ",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "Zavoisky was born in 1907 in Kazan",
+        "new": "Zavoisky was born in 1907 in Mogilev-Podolsky, in what is now Ukraine, and grew up in Kazan"
+      },
+      {
+        "field": "why",
+        "old": "He was one bad magnet away from one of the great discoveries of the century.",
+        "new": "An inconclusive early NMR observation preceded his firmly established discovery of electron paramagnetic resonance."
+      }
+    ]
+  },
+  "117": {
+    "source_url": "https://invention.si.edu/invention-stories/stephanie-kwolek-kevlarr-inventor",
+    "source_label": "Smithsonian Lemelson Center — Stephanie Kwolek",
+    "russian": "СТЕФАНИ КВОЛЕК · КЕВЛАР",
+    "evidence": "Working device",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "bulletproof vests",
+        "new": "bullet-resistant vests"
+      }
+    ]
+  },
+  "118": {
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7283918/",
+    "source_label": "Frontiers — movement complexity and Bernstein",
+    "russian": "НИКОЛАЙ БЕРНШТЕЙН",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "hook",
+        "old": "discovered how the brain really controls the body",
+        "new": "developed influential ideas about how the nervous system coordinates movement"
+      },
+      {
+        "field": "story",
+        "old": "yet hits the target every time",
+        "new": "yet can reach the same target reliably"
+      }
+    ]
+  },
+  "119": {
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/39527896/",
+    "source_label": "History of Psychiatry — Luria’s first steps in neuropsychology",
+    "russian": "АЛЕКСАНДР ЛУРИЯ",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "Alexander Luria founded neuropsychology",
+        "new": "Alexander Luria helped establish neuropsychology"
+      },
+      {
+        "field": "story",
+        "old": "In 1950, during a campaign against \"cosmopolitans,\" which targeted many Jewish scholars, he was removed from his institute and had to move to other work for some years.",
+        "new": "During the antisemitic campaign against “cosmopolitanism” in the early 1950s, his laboratory at the Burdenko Institute was closed, and he had to redirect his work for some years."
+      }
+    ]
+  },
+  "120": {
+    "source_url": "https://doi.org/10.7208/chicago/9780226762777.003.0008",
+    "source_label": "University of Chicago Press — translated Three-Man Paper",
+    "russian": "НИКОЛАЙ ТИМОФЕЕВ-РЕСОВСКИЙ",
+    "evidence": "Research record",
+    "corrections": []
+  },
+  "121": {
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/17900494/",
+    "source_label": "Transfusion Medicine Reviews — Bogdanov biography",
+    "russian": "АЛЕКСАНДР БОГДАНОВ",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "most likely from a reaction to incompatible blood",
+        "new": "after the exchange; the exact cause remains debated, with a transfusion reaction among the proposed explanations"
+      },
+      {
+        "field": "story",
+        "old": "The student recovered; Bogdanov fell ill and died,",
+        "new": "The student survived; Bogdanov fell ill and died,"
+      }
+    ]
+  },
+  "122": {
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6203130/",
+    "source_label": "Medical History — Soviet phage and penicillin programs",
+    "russian": "ЗИНАИДА ЕРМОЛЬЕВА",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "During World War II, the USSR had no access to Western penicillin.",
+        "new": "During World War II, penicillin was scarce in the USSR, which sought a domestic supply as well as help from Allied production."
+      },
+      {
+        "field": "story",
+        "old": "In 1944, Howard Florey, one of the developers of penicillin in Britain, visited Moscow, compared her mold strain with his own, and was so impressed that he nicknamed her \"Madame Penicillin.\"",
+        "new": "In 1944 Howard Florey, one of the developers of penicillin in Britain, visited Moscow for comparative trials. Soviet accounts celebrated krustozin and the nickname “Madame Penicillin”; Florey’s own report differed sharply on the comparative results."
+      }
+    ]
+  },
+  "123": {
+    "source_url": "https://www.eliava-institute.org/en/about-us",
+    "source_label": "Eliava Institute — institutional history",
+    "russian": "ГЕОРГИЙ ЭЛИАВА · БАКТЕРИОФАГИ",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "hook",
+        "old": "Long before antibiotics stopped working, a Georgian scientist built an institute to fight bacteria with viruses, and it's needed again today.",
+        "new": "A Georgian scientist helped establish an institute to fight bacteria with viruses, an approach now drawing renewed research interest as antibiotic resistance grows."
+      },
+      {
+        "field": "story",
+        "old": "His wife was sent to a camp.",
+        "new": "His wife was also arrested during the terror."
+      },
+      {
+        "field": "why",
+        "old": "He built a cure for the age of antibiotic resistance, decades early, and was executed for nothing.",
+        "new": "He helped build a lasting phage-research tradition and was executed during the Great Terror. Phage therapy remains an evolving, pathogen-specific approach, not a universal cure."
+      }
+    ]
+  },
+  "124": {
+    "source_url": "https://institut-filatova.com.ua/en/institute/history-of-the-institute/archives-of-the-institute/",
+    "source_label": "Filatov Institute — archives and corneal transplantation",
+    "russian": "ВЛАДИМИР ФИЛАТОВ",
+    "evidence": "Working device",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "Earlier, in 1917, he invented the \"tubed flap,\"",
+        "new": "Earlier, in work reported in 1917, he developed a “tubed flap,” independently of other reconstructive surgeons,"
+      }
+    ]
+  },
+  "125": {
+    "source_url": "https://transsyst.ru/1682-7392/article/view/12364",
+    "source_label": "Bulletin of the Russian Military Medical Academy — surgeon biography",
+    "russian": "ВАЛЕНТИН ВОЙНО-ЯСЕНЕЦКИЙ · ЛУКА",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "hook",
+        "old": "was exiled to the Arctic three times",
+        "new": "was arrested and exiled three times"
+      }
+    ]
+  },
+  "126": {
+    "source_url": "https://www.icfcst.kiev.ua/amosov/mainen/1",
+    "source_label": "Nikolai Amosov — autobiographical account",
+    "russian": "НИКОЛАЙ АМОСОВ",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "He died in 2002, aged 89.",
+        "new": "He died in December 2002, aged 88, shortly before his 89th birthday."
+      },
+      {
+        "field": "story",
+        "old": "He kept detailed records and wrote about the results honestly, including the parts that didn't work.",
+        "new": "He kept detailed records and wrote about the results, including the parts that did not work. This was one man’s self-experiment, not evidence that the regimen reverses aging."
+      }
+    ]
+  },
+  "127": {
+    "source_url": "https://www.academia.edu/4756010/_The_Gur_i_Amir_Mausoleum_and_the_Soviet_Politics_of_Preservation_Future_Anterior_Vol_8_2011_42_63",
+    "source_label": "Future Anterior — Gur-i Amir expedition historical study",
+    "russian": "МИХАИЛ ГЕРАСИМОВ",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "hook",
+        "old": "He rebuilt faces from skulls, including Ivan the Terrible's, and opened Tamerlane's tomb two days before Germany invaded.",
+        "new": "He reconstructed historical faces from skulls and joined the expedition that opened Tamerlane’s tomb in June 1941."
+      },
+      {
+        "field": "story",
+        "old": "Two days later, on June 22, Germany invaded the Soviet Union.",
+        "new": "Germany invaded the Soviet Union on June 22. Stories connecting the invasion to a tomb curse are legends, not evidence of causation."
+      }
+    ]
+  },
+  "128": {
+    "source_url": "https://www.bmj.com/content/339/bmj.b4965",
+    "source_label": "BMJ — auto-appendectomy case report",
+    "russian": "ЛЕОНИД РОГОЗОВ",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "the only doctor among the station's 13 men",
+        "new": "the only doctor in the station’s wintering party"
+      }
+    ]
+  },
+  "129": {
+    "source_url": "https://spark.iop.org/man-who-was-hit-proton-current",
+    "source_label": "Institute of Physics — proton-beam accident",
+    "russian": "АНАТОЛИЙ БУГОРСКИЙ",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "On July 13, 1978,",
+        "new": "In 1978,"
+      },
+      {
+        "field": "story",
+        "old": "The dose was hundreds of times higher than what is normally considered deadly. Doctors expected him to die.",
+        "new": "The narrow beam caused a very large local radiation exposure. Comparing that local dose with a lethal whole-body dose is misleading because the volume and organs exposed were radically different."
+      },
+      {
+        "field": "story",
+        "old": "But his intelligence was unaffected",
+        "new": "No major intellectual impairment was reported"
+      },
+      {
+        "field": "story",
+        "old": "His case is still unique, a living record of what concentrated radiation does to the human body.",
+        "new": "His case remains an unusual record of the consequences of a narrowly localized high-energy proton exposure."
+      }
+    ]
+  },
+  "130": {
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10756801/",
+    "source_label": "Arquivos de Neuro-Psiquiatria — Hans Berger historical appraisal",
+    "russian": "ГАНС БЕРГЕР · ЭЭГ",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "hook",
+        "old": "after his sister sensed, from far away, that he was in danger",
+        "new": "after an experience he interpreted as his sister sensing danger from far away"
+      },
+      {
+        "field": "story",
+        "old": "his sister, far away, had felt a sudden certainty",
+        "new": "according to Berger’s later account, his sister, far away, had felt a sudden certainty"
+      }
+    ]
+  },
+  "131": {
+    "source_url": "https://www.kcl.ac.uk/news/rosalind-franklin-deliberately-created-photo-51-after-earlier-photograph-revealed-dnas-structure",
+    "source_label": "King’s College London — Photo 51 archival research",
+    "russian": "РОЗАЛИНД ФРАНКЛИН · РЭЙМОНД ГОСЛИНГ",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "hook",
+        "old": "The X-ray photo that revealed the shape of DNA was taken by a woman who never learned how it was used.",
+        "new": "Rosalind Franklin and Raymond Gosling made an X-ray image that became crucial evidence for DNA’s helical structure."
+      },
+      {
+        "field": "story",
+        "old": "which is not awarded after death",
+        "new": "whose rules generally preclude posthumous awards"
+      },
+      {
+        "field": "why",
+        "old": "Her photograph unlocked the secret of life, and she never got the credit while she was alive.",
+        "new": "Her experimental work was central to understanding DNA’s structure. Its full importance deserves credit alongside the model-building it helped make possible."
+      },
+      {
+        "field": "story",
+        "old": "only decades later was her full role recognized.",
+        "new": "her contribution has received much fuller recognition since."
+      }
+    ]
+  },
+  "132": {
+    "source_url": "https://www.uspto.gov/learning-and-resources/journeys-innovation/historical-stories/courage-and-caution",
+    "source_label": "US Patent and Trademark Office — Garrett Morgan",
+    "russian": "ГАРРЕТ МОРГАН",
+    "evidence": "Working device",
+    "corrections": []
+  },
+  "133": {
+    "source_url": "https://periodic-table.rsc.org/about",
+    "source_label": "Royal Society of Chemistry — periodic table history",
+    "russian": "ДМИТРИЙ МЕНДЕЛЕЕВ",
+    "evidence": "Research record",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "local merchants reportedly knew him as \"the suitcase master.\"",
+        "new": "a popular anecdote remembers him as “the suitcase master,” although this was not a second professional career."
+      }
+    ]
+  },
+  "134": {
+    "source_url": "https://www.scielo.br/j/rbef/a/w39LSFpYZpm3QmjhzGSYj6h/abstract/?lang=en",
+    "source_label": "Revista Brasileira de Ensino de Física — documentary study of Perelman",
+    "russian": "ЯКОВ ПЕРЕЛЬМАН",
+    "evidence": "Research record",
+    "corrections": []
+  },
+  "135": {
+    "source_url": "https://www2.math.uu.se/~cki26691/pau2008.pdf",
+    "source_label": "Polish Academy of Arts and Sciences — Esperanto’s first book",
+    "russian": "ЛЮДВИК ЗАМЕНГОФ · ЭСПЕРАНТО",
+    "evidence": "Working device",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "so anyone could learn it quickly",
+        "new": "designed to make learning easier"
+      },
+      {
+        "field": "story",
+        "old": "It remains the most successful invented language ever made.",
+        "new": "It remains one of the most widely used constructed international languages."
+      }
+    ]
+  },
+  "136": {
+    "source_url": "https://www.invention.si.edu/invention-stories/woman-inventor-behind-monopoly",
+    "source_label": "Smithsonian Lemelson Center — The Landlord’s Game",
+    "russian": "ЭЛИЗАБЕТ МЭГИ",
+    "evidence": "Working device",
+    "corrections": []
+  },
+  "137": {
+    "source_url": "https://www.thehenryford.org/collections/explore/articles/xerox",
+    "source_label": "The Henry Ford — origins of the Xerox copy",
+    "russian": "ЧЕСТЕР КАРЛСОН · ОТТО КОРНЕЙ",
+    "evidence": "Working device",
+    "corrections": [
+      {
+        "field": "hook",
+        "old": "The photocopier was invented in a kitchen by a patent clerk tired of copying by hand, and more than 20 companies turned it down.",
+        "new": "A patent worker began experiments at home, then made the first xerographic copy in a rented Queens laboratory after hiring Otto Kornei."
+      },
+      {
+        "field": "why",
+        "old": "A tired clerk with sore hands changed every office on Earth, from his kitchen.",
+        "new": "A document-copying problem led from home experiments to a laboratory breakthrough and a major office technology."
+      }
+    ]
+  },
+  "138": {
+    "source_url": "https://lemelson.mit.edu/resources/josephine-cochrane",
+    "source_label": "Lemelson-MIT — Josephine Cochrane",
+    "russian": "ДЖОЗЕФИНА КОКРЕЙН",
+    "evidence": "Working device",
+    "corrections": [
+      {
+        "field": "story",
+        "old": "Her company eventually became part of the company that produced KitchenAid dishwashers.",
+        "new": "Her company was acquired by Hobart in 1926 and became part of the lineage of KitchenAid dishwashers."
+      }
+    ]
+  },
+  "139": {
+    "source_url": "https://womenshistory.si.edu/blog/margaret-knight-invented-machine-shapes-way-we-shop",
+    "source_label": "Smithsonian American Women’s History Museum — Margaret Knight",
+    "russian": "МАРГАРЕТ НАЙТ",
+    "evidence": "Working device",
+    "corrections": []
+  },
+  "140": {
+    "source_url": "https://www.invent.org/blog/inventors/microwave",
+    "source_label": "National Inventors Hall of Fame — microwave history",
+    "russian": "ПЕРСИ СПЕНСЕР",
+    "evidence": "Working device",
+    "corrections": []
+  }
+}
