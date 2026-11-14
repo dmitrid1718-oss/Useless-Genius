@@ -21,3 +21,5 @@ Strict grayscale: old Soviet research lab, grey filing cabinets, typewriter text
 assets/buran-archive-rendering.png is an AI-generated archival-style artistic reconstruction, not an authentic historical photograph. Keep the visible disclosure with the image.
 
 Stories 41–140 preserve the supplied separate biographical sections. Search indexes the full narrative and biography once on page load; deep links accept two- and three-digit story numbers.
+
+The founder’s personal note, “Five Miles From Buran,” lives in a single expandable section at #founder-note. Its editable text is in founder-note.md. Preserve the narrative, invitation, attribution, and distinction between personal recollections and sourced technical claims.
