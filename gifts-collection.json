@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Nikolai Zelinsky",
+    "russian": "НИКОЛАЙ ЗЕЛИНСКИЙ",
+    "story": 50,
+    "kind": "Protection shared",
+    "text": "His activated-charcoal gas-mask work helped protect soldiers in the First World War. He did not seek a personal patent on the charcoal-filter method.",
+    "source": "https://ar.culture.ru/en/subject/protivogaz-zelinskogo-s-maskoy-kummanta"
+  },
+  {
+    "name": "Jagadish Chandra Bose",
+    "russian": "ДЖАГАДИШ ЧАНДРА БОС",
+    "story": 103,
+    "kind": "Knowledge shared",
+    "text": "He generally preferred to share his radio discoveries. The familiar claim that he never patented anything needs a correction: a US detector patent was granted in his name in 1904.",
+    "source": "https://www.jcbose.ac.in/centenary"
+  },
+  {
+    "name": "Alberto Santos-Dumont",
+    "russian": "АЛЬБЕРТО САНТОС-ДЮМОН",
+    "story": 85,
+    "kind": "Plans shared",
+    "text": "He made the Demoiselle blueprints freely available so other builders could use them. Detailed construction drawings appeared in print in 1910.",
+    "source": "https://aline.cradleofaviation.org/alberto-santos-dumonts-demoiselle/"
+  },
+  {
+    "name": "Alexander Popov",
+    "russian": "АЛЕКСАНДР ПОПОВ",
+    "story": 27,
+    "kind": "A public demonstration",
+    "text": "His 1895 receiver demonstration became a landmark in radio history. His contribution belongs alongside the other researchers who made wireless communication possible.",
+    "source": "https://www.comsoc.org/node/18796"
+  },
+  {
+    "name": "Ludwik Zamenhof",
+    "russian": "ЛЮДВИК ЗАМЕНГОФ",
+    "story": 135,
+    "kind": "A language shared",
+    "text": "He offered Esperanto as a language people could learn, use and develop together, rather than as a private monopoly. A shared language was his practical proposal for understanding across borders.",
+    "source": "https://www2.math.uu.se/~cki26691/pau2008.pdf"
+  },
+  {
+    "name": "Valentin Voyno-Yasenetsky",
+    "russian": "ВАЛЕНТИН ВОЙНО-ЯСЕНЕЦКИЙ",
+    "story": 125,
+    "kind": "Prize money given",
+    "text": "The surgeon and archbishop donated 130,000 rubles of his 200,000-ruble Stalin Prize to children’s homes. A large gift deserves remembering accurately.",
+    "source": "https://journals.eco-vector.com/1682-7392/article/view/12364/en_US"
+  },
+  {
+    "name": "Chester Carlson",
+    "russian": "ЧЕСТЕР КАРЛСОН",
+    "story": 137,
+    "kind": "Wealth given",
+    "text": "Xerography made him wealthy. He gave large sums to educational, humanitarian and other charitable causes, often quietly, and directed much of his fortune toward philanthropy.",
+    "source": "https://www.thehenryford.org/collections/explore/articles/xerox"
+  },
+  {
+    "name": "Jonas Salk",
+    "russian": "ДЖОНАС СОЛК",
+    "story": null,
+    "kind": "A vaccine shared",
+    "text": "The inactivated polio vaccine was not patented, and Salk did not profit from sharing its formulation and production processes. Asked about ownership, he famously asked, “Could you patent the sun?”",
+    "source": "https://www.who.int/news-room/spotlight/history-of-vaccination/history-of-polio-vaccination"
+  },
+  {
+    "name": "Frederick Banting, Charles Best and James Collip",
+    "russian": "ФРЕДЕРИК БАНТИНГ · ЧАРЛЬЗ БЕСТ · ДЖЕЙМС КОЛЛИП",
+    "story": null,
+    "kind": "Patent rights entrusted",
+    "text": "In 1923, the insulin patent rights were assigned to the University of Toronto for a symbolic dollar each, intended to protect the discovery from monopoly. This did not itself guarantee permanent affordable access.",
+    "source": "https://magazine.utoronto.ca/research-ideas/health/the-miracle-of-insulin-diabetes-u-of-t-discoveries/"
+  },
+  {
+    "name": "Wilhelm Röntgen",
+    "russian": "ВИЛЬГЕЛЬМ РЕНТГЕН",
+    "story": null,
+    "kind": "Discovery and prize shared",
+    "text": "He declined to patent his X-ray apparatus and donated his Nobel Prize money to the University of Würzburg. His discovery could spread without a patent controlled by him.",
+    "source": "https://www.dpma.de/en/explore/milestones/inventions-that-made-history/roentgens-x-rays"
+  },
+  {
+    "name": "Marie and Pierre Curie",
+    "russian": "МАРИЯ И ПЬЕР КЮРИ",
+    "story": null,
+    "kind": "Methods shared",
+    "text": "The Curies published their radium-isolation processes without patenting them, and supplied other researchers with preparations and practical descriptions.",
+    "source": "https://www.nobelprize.org/prizes/themes/marie-and-pierre-curie-and-the-discovery-of-polonium-and-radium/"
+  },
+  {
+    "name": "Tim Berners-Lee and CERN",
+    "russian": "ТИМ БЕРНЕРС-ЛИ · ЦЕРН",
+    "story": null,
+    "kind": "An open Web",
+    "text": "Berners-Lee’s invention became a worldwide platform. On April 30, 1993, CERN released key World Wide Web software into the public domain, enabling others to use and build on it freely.",
+    "source": "https://home.cern/science/computing/the-birth-of-the-web/licensing-web/"
+  },
+  {
+    "name": "Nils Bohlin and Volvo",
+    "russian": "НИЛЬС БОЛИН · VOLVO",
+    "story": null,
+    "kind": "Safety shared",
+    "text": "Volvo allowed other manufacturers to use Bohlin’s three-point safety-belt design without a license fee. A patented invention could still be shared to protect people everywhere.",
+    "source": "https://www.volvocars.com/intl/media/press-releases/3994CD9300514746/"
+  }
+]
